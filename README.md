@@ -1,4 +1,6 @@
 # Webshop project
+Folyamatos frissítés alatt áll!
+
 ## Projekt leírása
 Ez a projekt egy fiktív webshopot valósít meg, amely Spring Boot és React technológiák segítségével készül.
 
