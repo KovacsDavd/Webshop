@@ -1,0 +1,17 @@
+header {
+    background-color: #f4f4f4;
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
+header nav a {
+    text-decoration: none;
+    color: black;
+    margin: 10px;
+    font-weight: bold;
+}
+header nav a:hover {
+    color: blue;
+}
+main {
+    padding: 20px;
+}

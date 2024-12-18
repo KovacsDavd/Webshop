@@ -1,0 +1,29 @@
+.cart-page {
+    margin-top: 20px;
+}
+
+.cart-items-section {
+    border-right: 1px solid #ddd;
+}
+
+.cart-summary-section {
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.quantity-control {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.quantity-display {
+    padding: 0 10px;
+    min-width: 30px;
+    text-align: center;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    background-color: #fff;
+}
